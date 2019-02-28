@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "763327133294",
+    "firebase_url": "https://examen-f7142.firebaseio.com",
+    "project_id": "examen-f7142",
+    "storage_bucket": "examen-f7142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763327133294:android:c2064c0f8d53dc76",
+        "android_client_info": {
+          "package_name": "com.example.ivan.examen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763327133294-s6c9hnmqoklie442nkq0eo39crupvndq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ivan.examen",
+            "certificate_hash": "96a73cb99a83ecd4b6d7f68bb7f81a9c853249a6"
+          }
+        },
+        {
+          "client_id": "763327133294-2dtqh2dok2pno4eehct0iaapbeeg9qe7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9QucM1IC4Sk5JumktKk2DhMVOF3yAC0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763327133294-2dtqh2dok2pno4eehct0iaapbeeg9qe7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
